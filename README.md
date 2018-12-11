@@ -1,2 +1,2 @@
 # Seminar_Nhom01
-Blockchain program
+Chương trình gửi tiền tiết kiệm trong ngân hàng bằng công nghệ Blockchain
