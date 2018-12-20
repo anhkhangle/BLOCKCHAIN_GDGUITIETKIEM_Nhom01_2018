@@ -17,7 +17,7 @@ Step 6: Run npm run dev and go to locahost:8080.
 
 License
 
-MIT License
+SGU License
 
 The following people have been the contributors for the project.
 
