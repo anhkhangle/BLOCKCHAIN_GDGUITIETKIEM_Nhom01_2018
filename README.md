@@ -1,19 +1,19 @@
 # Seminar_Nhom01
 Blockchain-based application for deposit in bank
 
-Setup
+SETUP
 
-Install testrpc and Truffle Framework.
+Step 1: Install testrpc and Truffle Framework.
 
-Run git clone https://github.com/anhkhangle/BLOCKCHAIN_GDGUITIETKIEM_Nhom01_2018/
+Step 2: Run git clone https://github.com/anhkhangle/BLOCKCHAIN_GDGUITIETKIEM_Nhom01_2018/
 
-Run npm install inside the directory.
+Step 3: Run npm install inside the directory.
 
-Run testrpc in a new terminal or Git Bash.
+Step 4: Run testrpc in a new terminal or Git Bash.
 
-Run truffle deploy to build and deploy application as well as contract.
+Step 5: Run truffle deploy to build and deploy application as well as contract.
 
-Run npm run dev and go to locahost:8080.
+Step 6: Run npm run dev and go to locahost:8080.
 
 License
 
